@@ -63,6 +63,15 @@ body, p {
 	font: 400 0.75rem/1.25rem "Raleway", sans-serif;
 }
 
+.navbar-brand h3 {
+	font-family: 'Dosis', sans-serif;
+}
+
+.nav-item {
+	font-family: 'Dosis', sans-serif;
+	font-size: 17px;
+}
+
 .p-heading {
 	margin-bottom: 3.875rem;
 }
